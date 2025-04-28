@@ -1,0 +1,19 @@
+﻿  Eleve.cpp
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(155,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(155,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(179,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(179,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(182,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(182,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(194,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(194,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(240,23): warning C4018: '<=' : incompatibilité signed/unsigned
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(242,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(263,31): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(266,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(329,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(386,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(386,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(396,68): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Eleve.cpp(396,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  G2D.vcxproj -> C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\test\Debug\G2D.exe
