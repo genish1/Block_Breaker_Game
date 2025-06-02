@@ -1,21 +1,22 @@
 ﻿  Eleve.cpp
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(156,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(156,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(170,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(170,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(193,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(193,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(196,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(196,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(200,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(200,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(213,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(213,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(263,23): warning C4018: '<=' : incompatibilité signed/unsigned
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(265,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(286,31): warning C4018: '<' : incompatibilité signed/unsigned
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(289,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(367,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(447,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Eleve.cpp(447,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
-  G2D.vcxproj -> C:\Users\william\Documents\COURS\S2-P1\Nouveau dossier\kuch_william_projet\Debug\G2D.exe
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(156,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(156,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(163,47): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(170,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(170,44): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(193,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(193,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(196,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(196,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(200,73): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(200,51): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(213,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(213,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(263,23): warning C4018: '<=' : incompatibilité signed/unsigned
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(265,74): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(286,31): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(289,66): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(365,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(444,37): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\william\Documents\GitHub\test\final_game\Eleve.cpp(444,25): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  G2D.vcxproj -> C:\Users\william\Documents\GitHub\test\final_game\Debug\G2D.exe

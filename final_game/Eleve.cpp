@@ -116,7 +116,7 @@ struct GameData
     Balle aBall;
     vector<Brique> briques; // Liste des briques
     int Idsprite_background;
-    int score = 90;
+    int score = 0;
     int nextLifeScore = 100;
     bool isPaused = false;
     int lives = 0;
@@ -163,7 +163,7 @@ void ResetLevel(GameData& G, int pLevel)
         G.aBall.BallMove = G.aBall.BallMove * 1.1; // Augmenter la vitesse de 10%
     }
     else {
-        for (int i = 0; i < 1; i++)
+        for (int i = 0; i < 5; i++)
         {
             for (int j = 0; j < 2; j++)
             {
